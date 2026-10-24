@@ -1,0 +1,22 @@
+# Thư viện phụ thuộc
+node_modules/
+
+# Biến môi trường & bí mật (Tuyệt đối không đưa lên GitHub)
+.env
+.env.local
+.env.*.local
+
+# Thư mục build
+dist/
+build/
+
+# Log files
+*.log
+npm-debug.log*
+
+# Hệ điều hành & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
